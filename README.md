@@ -6,7 +6,7 @@
 
 [Ejercicios básicos de Python](https://github.com/Evelinmendoza/Mineria-de-datos/blob/main/Ejercicios%20de%20Python.ipynb)
 
-[Avance 1 PIA] (https://github.com/Evelinmendoza/Mineria-de-datos/blob/main/Avance1_PIA_Equipo7.ipynb)
+[Avance 1 PIA](https://github.com/Evelinmendoza/Mineria-de-datos/blob/main/Avance1_PIA_Equipo7.ipynb)
 ## Fase II
 
 ## Fase III
