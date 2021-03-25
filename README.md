@@ -14,7 +14,7 @@
 ## Fase II
 [Presentacion reglas de asociacion](https://github.com/Evelinmendoza/Mineria-de-datos/blob/main/Presentacion_Reglas%20de%20asociaci%C3%B3n_Equipo%207.pdf)
 
-[calificaciones Kahoot](https://github.com/Evelinmendoza/Mineria-de-datos/blob/main/Calificaci%C3%B3n_Reglasdeasociacion_Equipo7.xlsx)
+[calificaciones Kahoot](https://github.com/NathanRAMx/MineriaDeDatos/blob/main/Calificación_Reglasdeasociacion_Equipo7.pdf)
 
 [Mapa Mental 2](https://github.com/Evelinmendoza/Mineria-de-datos/blob/main/MapaMental_2_1795417.pdf.pdf)
 
