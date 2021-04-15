@@ -18,4 +18,8 @@
 
 [Mapa Mental 2](https://github.com/Evelinmendoza/Mineria-de-datos/blob/main/MapaMental_2_1795417.pdf.pdf)
 
+[Práctica de visulazación](https://github.com/NathanRAMx/MineriaDeDatos/blob/main/Visualizacion_Equipo7.pdf)
+
+[Avance 2 PIA](https://github.com/NathanRAMx/MineriaDeDatos/blob/main/AvancePIA_II_Grupo002_Equipo7.ipynb)
+
 ## Fase III
